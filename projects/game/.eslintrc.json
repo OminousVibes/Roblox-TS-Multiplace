@@ -1,0 +1,6 @@
+{
+	"parserOptions": {
+		"project": "projects/game/tsconfig.json"
+	},
+	"extends": "../../.eslintrc.json"
+}
