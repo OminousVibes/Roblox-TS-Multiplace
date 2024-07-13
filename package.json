@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
-		"build": "npx rbxtsc -p ./projects/game -i ./include",
+		"build-game": "npx rbxtsc -p ./projects/game -i ./include",
 		"eslint": "npx eslint \"src/**/*.ts\" --max-warnings 0"
 	},
 	"keywords": [],
